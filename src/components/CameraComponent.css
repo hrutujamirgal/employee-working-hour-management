@@ -1,0 +1,15 @@
+.camera-container {
+  width: 90%;
+  aspect-ratio: 1/1;
+}
+
+.webcam {
+  width: 100%;
+  height: 100%;
+}
+
+.face-detection-box {
+  position: absolute;
+  border: 2px solid red;
+  pointer-events: none;
+}
